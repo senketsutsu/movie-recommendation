@@ -12,6 +12,8 @@ tensorflow-datasets = "*"
 pandas = "*"
 jinja2 = "*"
 scikit-learn = "*"
+seaborn = "*"
+pycleora = "*"
 
 [dev-packages]
 
